@@ -4,7 +4,7 @@ This repository contains a collection of data analysis projects developed using 
 - **SQL**
 - **Python**
 - **MS PowerBI**
-- **Microsoft SQL Server**
+- **Microsoft SQL Server, MySQL**
 
 ### [Staff distribution analysis](https://github.com/aghee/data_analytics_projects/tree/main/staff-distribution-sql-powerbi)
 This projects aims to explore the dataset to highlight
